@@ -21,11 +21,11 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop Design](images/desktop-design.jpg)
+![Desktop Design](./design/desktop-design.jpg)
 
 ### Links
 
-- Solution URL: [frontendmentor.io/solutions/age-calculator](https://www.frontendmentor.io/solutions/age-calculator)
+- Solution URL: [frontendmentor.io/solutions/age-calculator](https://www.frontendmentor.io/solutions/age-calculator-using-reactjs-nVmXuVd-nj)
 - Live Site URL: [abulhashim.github.io/Age-Calculator](https://abulhashim.github.io/Age-Calculator/)
 
 ## My process
